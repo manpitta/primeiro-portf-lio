@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.p1{
+    color: black;
+    src: url('https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap');
+    font-family: 'Noticia Text', serif;
+    font-size: 20px;
+}
+#imgRedonda{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+   
+}
+h1{
+    color: black;
+    src: url('https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap');
+    font-family: 'Noticia Text', serif;
+    font-size: 50px;
+    
+}
+h4{
+    color: black;
+    src: url('https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap');
+    font-family: 'Noticia Text', serif;
+    font-size: 25px;
+}
