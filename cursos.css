@@ -1,5 +1,15 @@
 body{
-    background-color: rgb(226, 220, 220)
+    background-color: white;
+}
+#parte1{
+    background-color: rgb(183, 222, 247);
+}
+#navegacao{
+    src: url('https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap');
+    font-family: 'Noticia Text', serif;
+    font-size: 20px;  
+    color: black;
+    text-decoration: none;
 }
 h1{
     color: black;
@@ -32,4 +42,8 @@ h4{
     src: url('https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap');
     font-family: 'Noticia Text', serif;
     font-size: 20px;
+}
+span{
+    color: black;
+    text-decoration: none;
 }

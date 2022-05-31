@@ -1,5 +1,16 @@
 body{
     background-color: white;
+    margin-top: auto;
+}
+#parte1{
+    background-color: rgb(183, 222, 247);
+}
+#navegacao{
+    src: url('https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap');
+    font-family: 'Noticia Text', serif;
+    font-size: 20px;  
+    color: black;
+    text-decoration: none;
 }
 .p1{
     color: black;
